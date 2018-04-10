@@ -1,57 +1,51 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Melissa Zellhuber",
+    "label": "Software Engineer",
+    "picture": "https://media.licdn.com/dms/image/C5603AQHnwkgEPmEvXA/profile-displayphoto-shrink_200_200/0?e=1528516800&v=beta&t=nCtpKwHDcWf6Tg8xP-Z2wb25PHKYvMR71WhvlTPKHt8",
+    "email": "melissa.zellhuber@gmail.com",
+    "phone": "+5214421780545",
+    "website": "https://mzellhuber.github.io/",
+    "summary": "I have been working as a software developer for five years, I love to create software that will impact people in a positive way. I am really passionate about music, technology and find myself motivated with challenges.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "76160",
+      "city": "Querétaro",
+      "countryCode": "MX",
+      "region": "Querétaro"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "mzellhuber",
+        "url": "http://github.com/mzellhuber"
       },
       {
         "network": "linkedin",
         "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "url": "http://linkedin.com/in/mzellhuber"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "software engineering",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        
       ]
     },
     {
-      "name": "data mining",
+      "name": "mobile development",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "human-computer interaction",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "data science",
       "keywords": [
       ]
     }
@@ -61,12 +55,14 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
+        "Python",
+        "Swift",
+        "Objective-C",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Java",
+        "HTML",
+        "CSS",
+        "SQL"
       ]
     },
     {
@@ -75,19 +71,27 @@
       "keywords": [
         "MacOS",
         "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Git/GitHub"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "institution": "The University of Edinburgh",
+      "area": "Computer Science",
+      "studyType": "MSc",
+      "startDate": "2017-09-12",
+      "endDate": "2017-11-30",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Monterrey Institute of Technology and Higher Education (ITESM)",
+      "area": "Computer Science",
+      "studyType": "BSc",
+      "startDate": "2009-08-11",
+      "endDate": "2014-05-22",
       "gpa": "",
       "courses": [
       ]
@@ -95,69 +99,98 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Brounie SA de CV",
+      "position": "iOS and Web Developer",
+      "website": "https://brounie.com/",
+      "startDate": "2018-02-05",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Lead iOS Developer",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Developed, tested and maintained multiple iOS and Web applications for different clients",
+        "Led and mentored junior developers, in particular leading them to adopt technologies such as Java, iOS, NoSQL and Git.",
+        "Evaluated other colleagues skills and design ability tests for developers."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Foodstamp App",
+      "position": "Co-Founder/iOS Developer",
+      "website": "http://foodstamp.tech/",
+      "startDate": "2014-11-01",
+      "endDate": "",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Designed the architecture and implemented the iOS app that gives users the opportunity to discover the best restaurants and food trucks around the area.",
+        "Participant in ALPHA Startup Program - Web Summit 2016."
+      ]
+    },
+    {
+      "company": "Oracle",
+      "position": "Programmer Analyst II",
+      "website": "https://www.oracle.com/index.html",
+      "startDate": "2014-06-02",
+      "endDate": "2016-01-15",
+      "summary": "",
+      "highlights": [
+        "Implemented new functionality and gave support to Oracle EBS, the application that allows Oracle to run its business and global infrastructure.",
+        "This was carried out as part of the Costing/Fulfillment DevOps team."
+      ]
+    },
+    {
+      "company": "Brounie SA de CV",
+      "position": "iOS and Web Developer",
+      "website": "https://brounie.com/",
+      "startDate": "2013-07-01",
+      "endDate": "2014-05-31",
+      "summary": "Senior iOS and Web Developer",
+      "highlights": [
+        "Developed, tested and maintained multiple iOS and Web applications for different clients",
+        "Led and mentored junior developers, in particular leading them to adopt technologies such as Java, iOS, NoSQL and Git."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Oracle Volunteers",
+      "website": "https://www.oracle.com/corporate/citizenship/volunteering/index.html",
+      "position": "Web Developer/Collaborator",
+      "startDate": "2014-09-01",
+      "endDate": "2016-01-15",
+      "summary": "Web developer helping an non profit organization",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Design and develop a web page for a non profit organization called Prospera, which teaches local entrepreneurs practical business skills. http://www.prosperando.org/"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Google Developer Challenge Scholarship",
+      "date": "2017",
+      "awarder": "Google",
+      "summary": "Scholarship awarded to top 1000 Web Developer applicants for the Mobile Web Specialist Nanodegree Program."
     },
     {
-      "title": "First place",
+      "title": "Informatics International Masters Scholarship",
+      "date": "2016",
+      "awarder": "The University of Edinburgh",
+      "summary": "Scholarship awarded by the The University of Edinburgh School of Informatics for tuition fees."
+    },
+    {
+      "title": "CONACyT Postgraduate Scholarship",
+      "date": "2016",
+      "awarder": "CONACyT Mexico",
+      "summary": "Scholarship for outstanding individuals who wish to pursue a postgraduate degree in a country other than Mexico."
+    },
+    {
+      "title": "DevOps FY16 Q1 Award Winner",
       "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "awarder": "Oracle",
+      "summary": "Award to celebrate the excellence in OAL DevOps employees."
+    },
+    {
+      "title": "iTuesdayPitch Competition 2015",
+      "date": "2015",
+      "awarder": "Hack for Big Choices, iTuesday and ITESM",
+      "summary": "Awarded one of the 10 best startups in Guadalajara."
     }
   ],
   "references": [
